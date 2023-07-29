@@ -1,7 +1,7 @@
 # net_discover
 
 
-command:
+#command:
 
 apt update 
 
